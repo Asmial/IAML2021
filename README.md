@@ -10,7 +10,7 @@ We can install this repository with or without conda.
 
 The first step is to download the repository
 ```
-     git clone https://github.com/Asmial/inteligencia_artificial.git
+     git clone https://github.com/Asmial/IAML2021.git
 ```
 
 **Conda**
